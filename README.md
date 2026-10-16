@@ -4,6 +4,7 @@ Website des Orient Imbiss, Dammstraße 7, 72336 Balingen.
 
 ## Inhalt
 
+- `index.html`: leitet auf das Impressum weiter
 - `impressum.html`: Impressum nach § 5 DDG und § 18 Abs. 2 MStV
 - `assets/logo.webp`: Logo
 
